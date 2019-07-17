@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/saipurumandla/fb-ical-parser/issues"
   },
-  "homepage": "https://github.com/saipurumandla/fb-ical-parser#readme"
+  "homepage": "https://github.com/saipurumandla/fb-ical-parser#readme",
+  "dependencies": {
+    "ical2json": "^2.0.0"
+  }
 }
