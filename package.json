@@ -1,0 +1,30 @@
+{
+  "name": "fb-ical-parser",
+  "version": "1.0.0",
+  "description": "Facebook event and Birthday file parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saipurumandla/fb-ical-parser.git"
+  },
+  "keywords": [
+    "Facebook",
+    "event",
+    "Facebook",
+    "birthday",
+    "ics",
+    "file",
+    "ics",
+    "to",
+    "json"
+  ],
+  "author": "Harin Purumandla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saipurumandla/fb-ical-parser/issues"
+  },
+  "homepage": "https://github.com/saipurumandla/fb-ical-parser#readme"
+}
